@@ -10,4 +10,4 @@ Valami fontos
 
 //worked more on index
 
-valami
+valamia
